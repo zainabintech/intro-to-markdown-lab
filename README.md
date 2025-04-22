@@ -1,3 +1,6 @@
+![A](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV5E2k4ZwECgHkeSUtW96YOpRTAYYmQIQpdA&s) 
+
+
 # Writing a Function in JavaScript
 
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
